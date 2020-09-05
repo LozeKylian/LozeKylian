@@ -14,10 +14,10 @@
 ### My Stats !
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Rubylium&count_private=true&show_icons=true?theme=buefy)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LozeKylian&count_private=true&show_icons=true?theme=buefy)
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rubylium)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LozeKylian)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Soon 👻
 
