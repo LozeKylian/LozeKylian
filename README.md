@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/kylian_Rd?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/kylian_Rd)
 
-## I'm a student Developer !
+## I'm a developer !
 
 - 🔭 I’m currently working oon a new version of a FiveM RP server!
 ### Connect with me:
