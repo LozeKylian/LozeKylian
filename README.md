@@ -48,4 +48,4 @@
 
 ---
 
-[discord]: https://discord.gg/kbHzbrm
+[discord]: https://discord.gg/gothamrp
