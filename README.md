@@ -17,7 +17,7 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LozeKylian&count_private=true&show_icons=true&theme=dark)
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LozeKylian)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LozeKylian&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Soon 👻
 
