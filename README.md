@@ -48,4 +48,4 @@
 
 ---
 
-[discord]: https://discord.gg/gothamrp
+[discord]: https://discord.gg/zpdGyyxPjc
